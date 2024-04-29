@@ -1,5 +1,5 @@
 name: hello-world-example
-on:
+'on':
   push:
 jobs:
   say-hello:
